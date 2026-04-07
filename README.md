@@ -83,7 +83,7 @@ I’m a **DevOps Engineer** passionate about building **scalable, secure, and fu
 ---
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your link here)*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/nithesh-s-p/*  
 - 📧 Email: nitheshsp2022@gmail.com  
 ---
 
