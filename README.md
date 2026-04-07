@@ -1,102 +1,77 @@
 # 👋 Hey, I'm Nithesh S P
 
-🚀 **DevOps Engineer | Reliable CI/CD & Cloud Automation Specialist**
+🚀 **DevOps Engineer | Cloud | CI/CD | Kubernetes | Automation**
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a **DevOps Engineer with 2.5+ years of production experience** building scalable, secure, and automated infrastructure.
+I’m a **DevOps Engineer with 2.5+ years of hands-on experience** building scalable, automated, and production-ready systems.
 
-💡 I specialize in designing **end-to-end DevOps pipelines**, automating infrastructure, and deploying **cloud-native applications** on AWS & Kubernetes.
+💡 I specialize in:
+- Designing **CI/CD pipelines**
+- Automating infrastructure with **Ansible**
+- Deploying applications using **Docker & Kubernetes**
+- Building **secure and scalable cloud architectures (AWS)**
 
-⚡ I focus on:
-- Reducing manual effort through automation  
-- Building reliable & zero-downtime deployment systems  
-- Delivering scalable, production-ready architectures  
-
----
-
-## ⚙️ Tech Stack
-
-### 🚀 DevOps & Automation
-- Jenkins, Docker, Kubernetes, Ansible  
-- CI/CD Pipeline Design & Implementation  
-
-### ☁️ Cloud & Infrastructure
-- AWS (EKS, EC2, ECR, S3, VPC, IAM, ALB, Lambda, CloudFormation)  
-- Linux Administration  
-
-### 📦 Containers & Orchestration
-- Docker (Image Build, Optimization, Registry)  
-- Kubernetes (EKS, Deployments, Services, Ingress, Scaling)  
-
-### 📊 Monitoring & Observability
-- Prometheus, Grafana  
-
-### 💻 Programming & Scripting
-- Python, Shell Scripting, Java  
-
-### 🌐 Web & Database
-- NGINX, MySQL, Django  
+⚡ My goal:  
+👉 *Automate everything. Deploy with confidence. Scale without pain.*
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack & Tools
 
-### 🔹 Secure Multi-Environment DevOps Architecture
-- 🔐 Integrated **HashiCorp Vault** for secrets management  
-- ⚙️ Automated provisioning using **Ansible**  
-- 🔁 CI/CD pipelines with **Jenkins** for daily automated deployments  
-- 🐳 Containerized services with Docker across Dev/PreProd/Prod  
+### 🚀 DevOps
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black?logo=ansible)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?logo=githubactions)
 
----
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 
-### 🔹 Cloud-Native Django Deployment (EKS)
-- ☸️ Deployed Django app on **AWS EKS (Kubernetes)**  
-- 🐳 Built & pushed Docker images to **Amazon ECR**  
-- 🔄 Implemented **rolling deployments with zero downtime**  
-- 🌐 Configured **ALB for traffic routing & scalability**  
+### 📊 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-yellow?logo=grafana)
 
----
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-Code-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-Backend-red?logo=java)
+![Shell](https://img.shields.io/badge/Shell-Scripting-green?logo=gnu-bash)
 
-### 🔹 LEMP Stack + WordPress Deployment
-- 🌐 Configured **NGINX, MySQL, PHP-FPM** on Ubuntu  
-- 🔒 Enabled SSL using **Certbot**  
-- 🐳 Containerized setup using Docker  
-- ☁️ Deployed on **VPS & AWS infrastructure**  
-
----
-
-## 📊 What I Bring
-
-✔️ Scalable, secure & production-ready solutions  
-✔️ Strong automation mindset (reduce manual work)  
-✔️ Clean, maintainable infrastructure  
-✔️ Fast & reliable deployments  
-✔️ Clear communication & consistent delivery  
+### 🌐 Web & DB
+![NGINX](https://img.shields.io/badge/NGINX-Web_Server-green?logo=nginx)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
 
 ---
 
-## 📈 Current Focus
+## 🚀 Featured DevOps Projects
 
-- Advanced Kubernetes (Production-level design)
-- Infrastructure as Code (Ansible, CloudFormation)
-- Observability & Monitoring Systems  
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *(Add your link here)*  
-- 📧 Email: nitheshsp2022@gmail.com  
+### 🔥 End-to-End DevOps Pipeline (Flagship Project)
+- ⚙️ CI/CD using **Jenkins + GitHub Actions**
+- 🐳 Dockerized application
+- ☸️ Kubernetes deployment (EKS-ready)
+- 🌐 NGINX reverse proxy & load balancing
+- 📊 Monitoring with Prometheus & Grafana
+- 🔐 Secure deployments with best practices
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy turning complex infrastructure problems into **simple, automated systems** 🚀
+### 🔹 Cloud-Native Django Deployment
+- Docker + Kubernetes deployment
+- AWS ECR + EKS integration
+- Rolling updates & zero downtime
+- ALB-based routing
 
 ---
 
-⭐ *"Build once. Automate forever."*
+### 🔹 Multi-Environment Infrastructure Automation
+- Ansible-based provisioning
+- Dev / PreProd / Prod environments
+- Automated deployments
+- Secure secret handling (Vault)
+
+---
+
+## 🧠 Architecture Diagram
