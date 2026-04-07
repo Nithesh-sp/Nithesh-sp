@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nithesh S P
 
-🚀 **DevOps Engineer | Cloud & Automation Specialist | CI/CD Enthusiast**
+🚀 **DevOps Engineer | Reliable CI/CD & Cloud Automation Specialist**
 
 ---
 
@@ -39,21 +39,6 @@ I’m a **DevOps Engineer with 2.5+ years of production experience** building sc
 
 ### 🌐 Web & Database
 - NGINX, MySQL, Django  
-
----
-
-## 💼 Professional Experience
-
-### 🏢 DevOps Engineer — JPL (Jio Platforms Limited)
-📅 Sep 2023 – Present  
-
-- 🚀 Built production-grade **CI/CD pipelines using Jenkins** → reduced manual effort by **70%**
-- ⚙️ Automated infrastructure using **Ansible** (provisioning, deployment, configuration)
-- 🐳 Managed **Docker-based deployments** across environments
-- ☸️ Deployed scalable applications on **AWS EKS (Kubernetes)**
-- 🔁 Implemented **rolling updates & zero-downtime deployments**
-- 📊 Set up monitoring using **Prometheus & Grafana**
-- 🔐 Designed secure AWS architectures using **IAM, VPC, ALB**
 
 ---
 
