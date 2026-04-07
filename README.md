@@ -1,16 +1,117 @@
-## Hi there 👋
+# 👋 Hey, I'm Nithesh S P
 
-<!--
-**Nithesh-sp/Nithesh-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | Cloud & Automation Specialist | CI/CD Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I’m a **DevOps Engineer with 2.5+ years of production experience** building scalable, secure, and automated infrastructure.
+
+💡 I specialize in designing **end-to-end DevOps pipelines**, automating infrastructure, and deploying **cloud-native applications** on AWS & Kubernetes.
+
+⚡ I focus on:
+- Reducing manual effort through automation  
+- Building reliable & zero-downtime deployment systems  
+- Delivering scalable, production-ready architectures  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🚀 DevOps & Automation
+- Jenkins, Docker, Kubernetes, Ansible  
+- CI/CD Pipeline Design & Implementation  
+
+### ☁️ Cloud & Infrastructure
+- AWS (EKS, EC2, ECR, S3, VPC, IAM, ALB, Lambda, CloudFormation)  
+- Linux Administration  
+
+### 📦 Containers & Orchestration
+- Docker (Image Build, Optimization, Registry)  
+- Kubernetes (EKS, Deployments, Services, Ingress, Scaling)  
+
+### 📊 Monitoring & Observability
+- Prometheus, Grafana  
+
+### 💻 Programming & Scripting
+- Python, Shell Scripting, Java  
+
+### 🌐 Web & Database
+- NGINX, MySQL, Django  
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 DevOps Engineer — JPL (Jio Platforms Limited)
+📅 Sep 2023 – Present  
+
+- 🚀 Built production-grade **CI/CD pipelines using Jenkins** → reduced manual effort by **70%**
+- ⚙️ Automated infrastructure using **Ansible** (provisioning, deployment, configuration)
+- 🐳 Managed **Docker-based deployments** across environments
+- ☸️ Deployed scalable applications on **AWS EKS (Kubernetes)**
+- 🔁 Implemented **rolling updates & zero-downtime deployments**
+- 📊 Set up monitoring using **Prometheus & Grafana**
+- 🔐 Designed secure AWS architectures using **IAM, VPC, ALB**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Secure Multi-Environment DevOps Architecture
+- 🔐 Integrated **HashiCorp Vault** for secrets management  
+- ⚙️ Automated provisioning using **Ansible**  
+- 🔁 CI/CD pipelines with **Jenkins** for daily automated deployments  
+- 🐳 Containerized services with Docker across Dev/PreProd/Prod  
+
+---
+
+### 🔹 Cloud-Native Django Deployment (EKS)
+- ☸️ Deployed Django app on **AWS EKS (Kubernetes)**  
+- 🐳 Built & pushed Docker images to **Amazon ECR**  
+- 🔄 Implemented **rolling deployments with zero downtime**  
+- 🌐 Configured **ALB for traffic routing & scalability**  
+
+---
+
+### 🔹 LEMP Stack + WordPress Deployment
+- 🌐 Configured **NGINX, MySQL, PHP-FPM** on Ubuntu  
+- 🔒 Enabled SSL using **Certbot**  
+- 🐳 Containerized setup using Docker  
+- ☁️ Deployed on **VPS & AWS infrastructure**  
+
+---
+
+## 📊 What I Bring
+
+✔️ Scalable, secure & production-ready solutions  
+✔️ Strong automation mindset (reduce manual work)  
+✔️ Clean, maintainable infrastructure  
+✔️ Fast & reliable deployments  
+✔️ Clear communication & consistent delivery  
+
+---
+
+## 📈 Current Focus
+
+- Advanced Kubernetes (Production-level design)
+- Infrastructure as Code (Ansible, CloudFormation)
+- Observability & Monitoring Systems  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *(Add your link here)*  
+- 📧 Email: nitheshsp2022@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex infrastructure problems into **simple, automated systems** 🚀
+
+---
+
+⭐ *"Build once. Automate forever."*
