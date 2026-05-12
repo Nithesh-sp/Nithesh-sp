@@ -57,14 +57,6 @@ I’m a **DevOps Engineer** passionate about building **scalable, secure, and fu
 
 ## 🚀 Featured DevOps Projects
 
-### 🔥 End-to-End DevOps Pipeline (Flagship Project)
-- ⚙️ CI/CD using **Jenkins + GitHub Actions**
-- 🐳 Dockerized application
-- ☸️ Kubernetes deployment (EKS-ready)
-- 🌐 NGINX reverse proxy & load balancing
-- 📊 Monitoring with Prometheus & Grafana
-- 🔐 Secure deployments with best practices
-
 ---
 
 ### 🔹 Cloud-Native Django Deployment
