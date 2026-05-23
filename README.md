@@ -55,25 +55,6 @@ I’m a **DevOps Engineer** passionate about building **scalable, secure, and fu
 
 ---
 
-## 🚀 Featured DevOps Projects
-
----
-
-### 🔹 Cloud-Native Django Deployment
-- Docker + Kubernetes deployment
-- AWS ECR + EKS integration
-- Rolling updates & zero downtime
-- ALB-based routing
-
----
-
-### 🔹 Multi-Environment Infrastructure Automation
-- Ansible-based provisioning
-- Dev / PreProd / Prod environments
-- Automated deployments
-- Secure secret handling (Vault)
-
----
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/nithesh-s-p/*  
